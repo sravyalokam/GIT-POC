@@ -11,21 +11,25 @@ Make sure you have the following installed:
 ```bash
 git clone <your_repo_url>
 cd <your_repo_folder>
+```
 
 ### 2. Install Dependencies
 
 ```bash
 npm install
+```
 
 ### 3. Start the Development Server
 
 ```bash
 ng serve
+```
 
 ### 4. Build for Production
 
 ```bash
 ng build --configuration production
+```
 
 
 
